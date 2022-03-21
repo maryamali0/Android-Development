@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#323fa2</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="LL_bg_color">#ff963e</color>
+    <color name="hint_color_prin">#4a4d93</color>
+    <color name="hint_color_rate">#4a4d93</color>
+    <color name="hint_color_years">#4a4d93</color>
+    <color name="button_txt">#ffffff</color>
+    <color name="btn_bg">#323fa2</color>
+</resources>

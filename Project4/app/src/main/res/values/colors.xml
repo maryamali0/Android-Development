@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Maryam Ali
+ IT-372
+ PROJECT 4
+ Due: May 28
+ -->
+
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="tvaddr_color">#FFFFFF</color>
+    <color name="tvcity_color">#FFFFFF</color>
+    <color name="tvbed_color">#FFFFFF</color>
+    <color name="tvbroom_color">#FFFFFF</color>
+    <color name="tv2_color">#FFFFFF</color>
+    <color name="tvprice_color">#ac4e4e</color>
+    <color name="instructions_color">#FFFFFF</color>
+</resources>

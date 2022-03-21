@@ -1,0 +1,31 @@
+<!--
+Maryam Ali
+Project 3B
+May 14
+-->
+<resources>
+    <string name="app_name">Dog Adoption Form</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="doggo_name">Name of Dog applying for</string>
+    <string name="experienced_with_dogs">Experienced with Dogs</string>
+    <string name="residence_">Residence:</string>
+    <string name="own_">Own</string>
+    <string name="rent_">Rent</string>
+    <string name="min_age">I am at least 21 years old</string>
+    <string name="apply_">Apply</string>
+    <string name="tv1">TV1.</string>
+    <string name="tv2">TV2</string>
+    <string name="tv3">TV3</string>
+    <string name="tv4">TV4</string>
+    <string name="tv5">TV5</string>
+    <string name="tv6">TV6</string>
+    <string name="tv7">TV7</string>
+    <string-array name="breed">
+        <item>Siberian Husky</item>
+        <item>German Shepherd</item>
+        <item>Golden Retriever</item>
+        <item>Rottweiler</item>
+        <item>Chihuahua</item>
+    </string-array>
+</resources>

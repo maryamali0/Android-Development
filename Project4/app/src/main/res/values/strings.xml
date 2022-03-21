@@ -1,0 +1,18 @@
+<resources>
+    <!--
+ Maryam Ali
+ IT-372
+ PROJECT 4
+ Due: May 28
+ -->
+    <string name="app_name">Project4_AliMaryam</string>
+    <string name="tv2_txt">Selected Home Details</string>
+    <string name="fontfamaddr">serif-monospace</string>
+    <string name="fontfamcity">serif-monospace</string>
+    <string name="fontfambed">serif-monospace</string>
+    <string name="fontfambath">serif-monospace</string>
+    <string name="fontfamtxt">sans-serif-black</string>
+    <string name="fontfamprice">serif-monospace</string>
+    <string name="tv_instructionstxt">Please select a point on the map to view housing information.</string>
+    <string name="fontfam_1stact">monospace</string>
+</resources>

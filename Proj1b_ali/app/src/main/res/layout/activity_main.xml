@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/image2"
+    android:scaleType="centerCrop"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="85dp"
+        android:text="@string/hit_me"
+        android:textSize="50sp"
+        android:fontFamily="@font/kartoon"
+        android:background="@color/btn_bg"
+        android:onClick="showFact"
+        android:layout_margin="100dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_fact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:fontFamily="@font/roman"
+        android:gravity="center"
+    />
+
+</LinearLayout>
+
+<!--
+Maryam Ali
+Proj1b
+April 17, 2020
+-->
+
+<!--
+1.Converted to Linear Layout (LL)
+2.Delete Constraints attributes
+3.Add vertical orientation
+4.Modify button sizing attributes
+5.Modify button text attributes
+6.Add custom font to button attribute
+6.Modify textview attributes
+7.Add custom font
+8.Extract appropriate color/string resources
+10.Add onClick attribute for button class
+
+-->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Maryam Ali
+Project 3B
+May 14
+-->
+<resources>
+    <color name="colorPrimary">#bab793</color>
+    <color name="colorPrimaryDark">#93aeba</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="tv1_color">#000000</color>
+    <color name="tv2_color">#000000</color>
+    <color name="tv3_color">#000000</color>
+    <color name="tv4_color">#000000</color>
+    <color name="tv5_color">#000000</color>
+    <color name="tv6_color">#000000</color>
+    <color name="tv7_color">#000000</color>
+    <color name="conf_color">#689e77</color>
+    <color name="form_color">#dd5f45</color>
+</resources>

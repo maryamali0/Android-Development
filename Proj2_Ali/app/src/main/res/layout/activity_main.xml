@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Maryam Ali
+Project 2
+04/24/20
+-->
+
+<!--Add a scroll bar -->
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!--LL modifiers -->
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/LL_bg_color">
+
+
+    <!--Principal input box modifiers-->
+    <EditText
+        android:id="@+id/edt_principal"
+        android:gravity="center"
+        android:layout_width="210dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/hint_p"
+        android:inputType="number"
+        android:textColorHint="@color/hint_color_prin"
+        android:typeface="serif" />
+
+    <!--Rate input box modifiers-->
+    <EditText
+        android:id="@+id/edt_rate"
+        android:gravity="center"
+        android:layout_width="170dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/hint_r"
+        android:inputType="numberDecimal"
+        android:textColorHint="@color/hint_color_rate"
+        android:typeface="serif" />
+
+    <!--Loan Term input box modifiers-->
+    <EditText
+        android:id="@+id/edt_num_years"
+        android:gravity="center"
+        android:layout_width="220dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/hint_n"
+        android:inputType="number"
+        android:textColorHint="@color/hint_color_years"
+        android:typeface="serif" />
+
+    <!--Output box modifiers-->
+    <TextView
+        android:id="@+id/txt_payment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:fontFamily="@string/txt_font"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <!--Button modifiers-->
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:onClick="calcPayment"
+        android:text="@string/btn_val"
+        android:background="@color/btn_bg"
+        android:textSize="25sp"
+        android:textColor="@color/button_txt"/>
+
+
+</LinearLayout>
+</ScrollView>
+

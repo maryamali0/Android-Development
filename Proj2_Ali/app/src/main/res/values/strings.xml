@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proj2_Ali</string>
+    <string name="hint_p">Enter Principal Amount</string>
+    <string name="hint_r">Enter Interest Rate</string>
+    <string name="hint_n">Enter Loan Term (Years)</string>
+    <string name="txt_font">courier new</string>
+    <string name="btn_val">Calculate Payment</string>
+</resources>
